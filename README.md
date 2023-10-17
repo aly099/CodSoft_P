@@ -14,7 +14,9 @@ This repository contains my projects and tasks completed during my Python intern
 3. **Task 3: Password Generator**
    - Description: A password generator application in Python for creating secure passwords.
 
+4. **Task 4: Rock-Paper-Scissors Game**
+   - Description: A command-line implementation of the classic rock-paper-scissors game in Python.
+
 ## About Codsoft
 
 [Codsoft](https://www.codsoft.com) is a leading software development company specializing in innovative solutions and cutting-edge technologies. The internship program offers hands-on training and mentorship to aspiring software developers, equipping them with the skills and knowledge needed for a successful career in the tech industry.
-
